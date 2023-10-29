@@ -14,25 +14,28 @@
 * [類別](clean-code/class.md)
 * [變數](clean-code/variable.md)
 * [排版](clean-code/typesetting.md)
-* [Git Commit (編輯記錄)](clean-code/git-commit.md)
+* [Git Commit](clean-code/git-commit.md)
 
 ## 測試 <a href="#test" id="test"></a>
 
+* [為什麼要寫測試](test/why-test-code.md)
 * [第一支測試](test/the-first.md)
-* [Mock](test/mock.md)
-* [Spy](test/spy.md)
-* [Factory](test/factory.md)
-* [測試環境](test/test-environment.md)
-* [哪些不用測試](test/do-not-test-something.md)
+* [哪些不用測試（準備中）](test/do-not-test-something.md)
+* [Mock（準備中）](test/mock.md)
+* [Spy（準備中）](test/spy.md)
+* [Factory（準備中）](test/factory.md)
+* [測試 Trait（準備中）](test/how-to-test-trait.md)
+* [測試 Abstract Class（準備中）](test/how-to-test-abstract-class.md)
 
 ## 重構 <a href="#refactor" id="refactor"></a>
 
-* [流程](refactor/flow.md)
-* [安全地移除功能](refactor/how-to-safely-remove-features.md)
-* [升級](refactor/upgrade.md)
+* [為什麼要重構（準備中）](refactor/why-refactor-code.md)
+* [流程（準備中）](refactor/flow.md)
+* [安全地移除功能（準備中）](refactor/how-to-safely-remove-features.md)
+* [升級（準備中）](refactor/upgrade.md)
 
 ## 設計模式 <a href="#design-patterns" id="design-patterns"></a>
 
-* [使用時機](design-patterns/when-to-use.md)
-* [early return](design-patterns/early-return.md)
-* [fluent interface](design-patterns/fluent-interface.md)
+* [使用時機（準備中）](design-patterns/when-to-use.md)
+* [early return（準備中）](design-patterns/early-return.md)
+* [fluent interface（準備中）](design-patterns/fluent-interface.md)

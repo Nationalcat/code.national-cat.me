@@ -1,5 +1,21 @@
 ---
 description: 要改善程式碼不會是一兩天的事情，除了長期規劃外，還需要不斷地寫測試與重構。
+cover: .gitbook/assets/mybrandnewlogo.com_create-logo_ooNvKlP56nS39EVOopRx (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 前言
