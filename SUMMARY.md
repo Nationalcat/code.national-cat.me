@@ -20,12 +20,11 @@
 
 * [為什麼要寫測試](test/why-test-code.md)
 * [第一支測試](test/the-first.md)
-* [哪些不用測試（準備中）](test/do-not-test-something.md)
-* [Mock（準備中）](test/mock.md)
-* [Spy（準備中）](test/spy.md)
-* [Factory（準備中）](test/factory.md)
-* [測試 Trait（準備中）](test/how-to-test-trait.md)
-* [測試 Abstract Class（準備中）](test/how-to-test-abstract-class.md)
+* [哪些不用測試](test/do-not-test-something.md)
+* [Mock / Spy](test/mock-and-spy.md)
+* [Factory](test/factory.md)
+* [測試 Trait](test/how-to-test-trait.md)
+* [測試 Abstract Class](test/how-to-test-abstract-class.md)
 
 ## 重構 <a href="#refactor" id="refactor"></a>
 
