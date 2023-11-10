@@ -28,7 +28,7 @@
 
 ## 重構 <a href="#refactor" id="refactor"></a>
 
-* [為什麼要重構（準備中）](refactor/why-refactor-code.md)
+* [為什麼要重構](refactor/why-refactor-code.md)
 * [流程（準備中）](refactor/flow.md)
 * [安全地移除功能（準備中）](refactor/how-to-safely-remove-features.md)
 * [升級（準備中）](refactor/upgrade.md)
